@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body,h1,li,ul{margin:0;padding:10px}li,ul{list-style:none}.App{display:flex;flex-direction:column;align-items:center}.App__title{display:flex;justify-content:center;line-height:200%;color:#3b6978}.postList{width:800px;box-shadow:0 0 10px #84a9ac}.postList__item{color:#204051;box-shadow:0 0 10px #3b6978}.commentsList{margin-top:20px}.commentsList__item{box-shadow:0 0 10px #e4e3e3}
+/*# sourceMappingURL=main.db25575e.chunk.css.map */
